@@ -1,0 +1,31 @@
+
+.markee{
+    color: rgb(0, 0, 0);
+    
+    /* font-family: Arial, sans-serif; */
+    font-family: fantacy;
+    font-weight: 900;
+    text-align: center;
+    padding-left: 20px;
+    
+}
+.markee1{
+    color: rgb(240, 48, 64);
+    background-color: rgb(204, 248, 248);
+    font-family: "Pacifico", cursive; 
+    /* font-family: Arial, sans-serif; */
+}
+.table{
+    padding-right: 10px;
+    margin-bottom: 20px;
+}
+
+.markee3{
+    color: rgb(19, 118, 10);
+    
+    /* font-family: Arial, sans-serif; */
+    font-family: cursive;
+    font-weight: 900;
+    text-align: center;
+    padding-left: 20px;
+}
